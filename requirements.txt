@@ -1,4 +1,3 @@
-aiogram==3.4.1
-requests
-python-dotenv
+aiogram==3.17.0
 httpx
+google-generativeai==0.4.1
