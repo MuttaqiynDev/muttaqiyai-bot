@@ -235,7 +235,7 @@ If you found this project helpful, please consider:
 
 - **Developer**: [@MuttaqiynDev](https://t.me/MuttaqiynDev)
 - **Channel**: [@Muttaqiyn_Media](https://t.me/MuttaqiynDev_uz)
-- **Issues**: [GitHub Issues](https://github.com/MuttaqiyndDev/telegram-ai-bot/issues)
+- **Issues**: [GitHub Issues](https://github.com/MuttaqiyndDev/muttaqiyai-bot/issues)
 
 ## 🔗 Useful Links
 
