@@ -250,8 +250,8 @@ If you found this project helpful, please consider:
 
 **⭐ Don't forget to star this repo if you found it useful!**
 
-Made with ❤️ by [@MuttaqiynDev](https://t.me/MuttaqiynDev)
+Made with by [@MuttaqiynDev](https://t.me/MuttaqiynDev)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.telegram-ai-bot)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MuttaqiynDev.telegram-ai-bot)
 
 </div>
