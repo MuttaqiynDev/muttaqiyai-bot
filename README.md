@@ -221,9 +221,7 @@ We welcome contributions! Here's how you can help:
 - Test thoroughly before submitting
 - Update documentation as needed
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
 
 ## 🌟 Show Your Support
 
@@ -236,8 +234,8 @@ If you found this project helpful, please consider:
 ## 📞 Contact & Support
 
 - **Developer**: [@MuttaqiynDev](https://t.me/MuttaqiynDev)
-- **Channel**: [@Muttaqiyn_Media](https://t.me/Muttaqiyn_Media)
-- **Issues**: [GitHub Issues](https://github.com/your-username/telegram-ai-bot/issues)
+- **Channel**: [@Muttaqiyn_Media](https://t.me/MuttaqiynDev_uz)
+- **Issues**: [GitHub Issues](https://github.com/MuttaqiyndDev/telegram-ai-bot/issues)
 
 ## 🔗 Useful Links
 
