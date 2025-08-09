@@ -133,9 +133,9 @@ python main.py
 ## 📁 Project Structure
 
 ```
-telegram-ai-bot/
+muttaqiyai-bot/
 │
-├── bot.py              # Main bot application
+├── main.py              # Main bot application
 ├── users.db           # SQLite database (auto-generated)
 ├── README.md          # Project documentation
 └── requirements.txt   # Dependencies list
