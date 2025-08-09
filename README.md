@@ -42,13 +42,13 @@ This Telegram bot leverages **Google Gemini AI** technology to provide intellige
 ## 🛠️ Installation
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.10+
 - Telegram Bot Token
 - Google Gemini API Key
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/telegram-ai-bot.git
+git clone https://github.com/MuttaqiynDev/muttaqiyai-bot.git
 cd muttaqiyai-bot
 ```
 
