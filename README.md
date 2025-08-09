@@ -2,11 +2,10 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Aiogram](https://img.shields.io/badge/Aiogram-3.x-green.svg)
 ![Gemini AI](https://img.shields.io/badge/Gemini-AI-orange.svg)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-lightblue.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **🚀 Powerful Telegram bot powered by Google Gemini AI**
 
@@ -50,12 +49,12 @@ This Telegram bot leverages **Google Gemini AI** technology to provide intellige
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/telegram-ai-bot.git
-cd telegram-ai-bot
+cd muttaqiyai-bot
 ```
 
 ### 2️⃣ Install Dependencies
 ```bash
-pip install aiogram google-generativeai
+pip install -r requirements.txt
 ```
 
 ### 3️⃣ Configure Settings
@@ -70,7 +69,7 @@ ADMIN_ID = "YOUR_TELEGRAM_ID_HERE"
 
 ### Start the Bot
 ```bash
-python bot.py
+python main.py
 ```
 
 ### Available Commands
