@@ -42,7 +42,7 @@ This Telegram bot leverages **Google Gemini AI** technology to provide intellige
 ## 🛠️ Installation
 
 ### Prerequisites
-- Python 3.10+
+- Python 3.13
 - Telegram Bot Token
 - Google Gemini API Key
 
