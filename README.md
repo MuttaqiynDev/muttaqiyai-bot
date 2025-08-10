@@ -200,7 +200,6 @@ Solution: Ensure write permissions in bot directory
 - ✅ Error handling and logging
 
 ### Planned Features
-- 🔄 Multi-language support
 - 🔄 Advanced user analytics
 - 🔄 Message history
 - 🔄 Custom AI prompts
