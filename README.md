@@ -7,10 +7,6 @@
 ![Gemini AI](https://img.shields.io/badge/Gemini-AI-orange.svg)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-lightblue.svg)
 
-**Powerful Telegram bot powered by Google Gemini AI**
-
-[Get Started](#-installation) • [Features](#-features) • [ Configuration](#️-configuration) • [Usage](#-usage)
-
 </div>
 
 ---
