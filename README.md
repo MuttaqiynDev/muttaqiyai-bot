@@ -1,4 +1,4 @@
-# 🤖 Telegram AI Bot
+# Telegram AI Bot
 
 <div align="center">
 
@@ -7,57 +7,57 @@
 ![Gemini AI](https://img.shields.io/badge/Gemini-AI-orange.svg)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-lightblue.svg)
 
-**🚀 Powerful Telegram bot powered by Google Gemini AI**
+**Powerful Telegram bot powered by Google Gemini AI**
 
-[🌟 Get Started](#-installation) • [📖 Features](#-features) • [⚙️ Configuration](#️-configuration) • [🔧 Usage](#-usage)
+[Get Started](#-installation) • [Features](#-features) • [ Configuration](#️-configuration) • [Usage](#-usage)
 
 </div>
 
 ---
 
-## 📋 About The Project
+## About The Project
 
 This Telegram bot leverages **Google Gemini AI** technology to provide intelligent responses to user queries. The bot manages users through an SQLite database and includes an admin panel for broadcasting messages to all users.
 
-## ✨ Features
+## Features
 
-### 🤖 AI-Powered Responses
+### AI-Powered Responses
 - **Gemini 2.5 Pro** model integration
 - Intelligent answers to any questions
 - HTML-formatted response display
 - Real-time "typing..." indicator
 
-### 👥 User Management
+### User Management
 - Automatic user registration
 - SQLite database storage
 - User statistics tracking
 - Persistent user data
 
-### 🔐 Admin Panel
+### Admin Panel
 - Broadcast messages to all users
 - User statistics dashboard
 - Admin privilege verification
 - Mass communication tools
 
-## 🛠️ Installation
+## 🛠Installation
 
 ### Prerequisites
 - Python 3.13
 - Telegram Bot Token
 - Google Gemini API Key
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/MuttaqiynDev/muttaqiyai-bot.git
 cd muttaqiyai-bot
 ```
 
-### 2️⃣ Install Dependencies
+### Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Configure Settings
+### Configure Settings
 Edit the following variables in the code:
 ```python
 TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
@@ -65,7 +65,7 @@ GEMINI_API_KEY = "YOUR_GEMINI_API_KEY_HERE"
 ADMIN_ID = "YOUR_TELEGRAM_ID_HERE"
 ```
 
-## 🔧 Usage
+## Usage
 
 ### Start the Bot
 ```bash
@@ -81,51 +81,51 @@ python main.py
 | `/users` | View user statistics | Admin only |
 | `/sendall` | Broadcast message | Admin only |
 
-## 📱 Bot Functionality
+## Bot Functionality
 
-### 🎯 Regular Users
+### Regular Users
 
-**🚀 Getting Started**
+**Getting Started**
 - Use `/start` command to initialize the bot
 - Receive a personalized welcome message
 - Get automatically registered in the database
 
-**💬 AI Chat**
+**AI Chat**
 - Send any text message to the bot
 - AI processes your query using Gemini
 - Receive intelligent, contextual responses
 - See "⏳ Writing..." status during processing
 
-**🆔 ID Retrieval**
+**ID Retrieval**
 - Use `/id` command to get your Telegram ID
 - Useful for admin configuration
 
-### 👨‍💼 Admin Features
+### Admin Features
 
-**📊 Statistics**
+**Statistics**
 - `/users` - View total registered users count
 - Monitor bot usage and growth
 
-**📢 Broadcasting**
+**Broadcasting**
 - `/sendall Your message here` - Send messages to all users
 - Receive delivery report with success count
 - Error handling for inactive users
 
-## 🔐 Getting API Keys
+## Getting API Keys
 
-### 🤖 Telegram Bot Token
+### Telegram Bot Token
 1. Visit [@BotFather](https://t.me/botfather) on Telegram
 2. Send `/newbot` command
 3. Follow prompts to create your bot
 4. Copy the provided token
 
-### 🧠 Gemini API Key
+### Gemini API Key
 1. Go to [Google AI Studio](https://makersuite.google.com/app/apikey)
 2. Sign in with your Google account
 3. Click "Create API Key"
 4. Copy the generated key
 
-### 📱 Getting Your Telegram ID
+### Getting Your Telegram ID
 1. Message [@userinfobot](https://t.me/userinfobot)
 2. Start the bot
 3. Copy your user ID from the response
@@ -141,7 +141,7 @@ muttaqiyai-bot/
 └── requirements.txt   # Dependencies list
 ```
 
-## 🔧 Technical Details
+## Technical Details
 
 ### Dependencies
 - **aiogram** - Modern Telegram Bot API framework
@@ -162,7 +162,7 @@ CREATE TABLE IF NOT EXISTS users (
 - **Scalable**: SQLite database for user management
 - **Error Handling**: Comprehensive exception management
 
-## 🚨 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -222,21 +222,21 @@ We welcome contributions! Here's how you can help:
 
 ---
 
-## 🌟 Show Your Support
+## Show Your Support
 
 If you found this project helpful, please consider:
-- ⭐ Starring the repository
-- 🍴 Forking for your own use
-- 🐛 Reporting bugs or issues
-- 💡 Suggesting new features
+- Starring the repository
+- Forking for your own use
+- Reporting bugs or issues
+- Suggesting new features
 
-## 📞 Contact & Support
+## Contact & Support
 
 - **Developer**: [@MuttaqiynDev](https://t.me/MuttaqiynDev)
 - **Channel**: [@Muttaqiyn_Media](https://t.me/MuttaqiynDev_uz)
 - **Issues**: [GitHub Issues](https://github.com/MuttaqiyndDev/muttaqiyai-bot/issues)
 
-## 🔗 Useful Links
+## Useful Links
 
 - [Aiogram Documentation](https://docs.aiogram.dev/)
 - [Google Gemini AI](https://deepmind.google/technologies/gemini/)
