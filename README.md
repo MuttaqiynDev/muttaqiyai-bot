@@ -39,7 +39,7 @@ This Telegram bot leverages **Google Gemini AI** technology to provide intellige
 - Admin privilege verification
 - Mass communication tools
 
-## 🛠Installation
+## Installation
 
 ### Prerequisites
 - Python 3.13
