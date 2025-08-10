@@ -21,7 +21,6 @@ This Telegram bot leverages **Google Gemini AI** technology to provide intellige
 - **Gemini 2.5 Pro** model integration
 - Intelligent answers to any questions
 - HTML-formatted response display
-- Real-time "typing..." indicator
 
 ### User Management
 - Automatic user registration
