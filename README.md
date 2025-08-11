@@ -246,6 +246,4 @@ If you found this project helpful, please consider:
 
 Made with by [@MuttaqiynDev](https://t.me/MuttaqiynDev)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MuttaqiynDev.muttaqiyai-bot)
-
 </div>
