@@ -185,20 +185,6 @@ Cause: SQLite permission problems
 Solution: Ensure write permissions in bot directory
 ```
 
-## 🔄 Version History
-
-### v1.0.0 (Current)
-- ✅ Core AI functionality with Gemini 2.5 Pro
-- ✅ User registration and management
-- ✅ Admin control panel
-- ✅ Broadcasting system
-- ✅ Error handling and logging
-
-### Planned Features
-- 🔄 Advanced user analytics
-- 🔄 Message history
-- 🔄 Custom AI prompts
-
 ## 🤝 Contributing
 
 We welcome contributions! Here's how you can help:
