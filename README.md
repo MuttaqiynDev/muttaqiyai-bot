@@ -144,13 +144,6 @@ muttaqiyai-bot/
 - **sqlite3** - Built-in database management
 - **asyncio** - Asynchronous programming support
 
-### Database Schema
-```sql
-CREATE TABLE IF NOT EXISTS users (
-    id INTEGER PRIMARY KEY
-);
-```
-
 ### Architecture
 - **Asynchronous**: Built with async/await for optimal performance
 - **Modular**: Clean separation of concerns
