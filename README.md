@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
-![Aiogram](https://img.shields.io/badge/Aiogram-3.x-green.svg)
+![Aiogram](https://img.shields.io/badge/Aiogram-3.17.0-green.svg)
 ![Gemini AI](https://img.shields.io/badge/Gemini-AI-orange.svg)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-lightblue.svg)
 
