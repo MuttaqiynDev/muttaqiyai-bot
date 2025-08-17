@@ -67,15 +67,6 @@ ADMIN_ID = "YOUR_TELEGRAM_ID_HERE"
 python main.py
 ```
 
-### Available Commands
-
-| Command | Description | Access Level |
-|---------|-------------|--------------|
-| `/start` | Initialize the bot | All users |
-| `/id` | Get your Telegram ID | All users |
-| `/users` | View user statistics | Admin only |
-| `/sendall` | Broadcast message | Admin only |
-
 ## Bot Functionality
 
 ### Regular Users
