@@ -80,7 +80,6 @@ python main.py
 - Send any text message to the bot
 - AI processes your query using Gemini
 - Receive intelligent, contextual responses
-- See "⏳ Writing..." status during processing
 
 **ID Retrieval**
 - Use `/id` command to get your Telegram ID
