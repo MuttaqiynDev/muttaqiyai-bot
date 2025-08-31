@@ -115,17 +115,6 @@ python main.py
 2. Start the bot
 3. Copy your user ID from the response
 
-## 📁 Project Structure
-
-```
-muttaqiyai-bot/
-│
-├── main.py              # Main bot application
-├── users.db           # SQLite database (auto-generated)
-├── README.md          # Project documentation
-└── requirements.txt   # Dependencies list
-```
-
 ## Technical Details
 
 ### Dependencies
